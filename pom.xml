@@ -51,7 +51,9 @@
                     <version>${javafx.version}</version>
                     <classifier>linux</classifier>
                 </dependency>
+
             </dependencies>
+
             <build>
                 <plugins>
                     <plugin>
